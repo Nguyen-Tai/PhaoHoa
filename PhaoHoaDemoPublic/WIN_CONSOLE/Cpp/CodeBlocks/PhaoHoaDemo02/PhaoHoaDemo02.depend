@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1547729517 source:d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\main.cpp
+	<cstdlib>
+	<ctime>
+	<Windows.h>
+	"PhaoHoaManager.hpp"
+
+1547729359 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\phaohoamanager.hpp
+	<vector>
+	"PhaoHoa.hpp"
+
+1547729679 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\phaohoa.hpp
+	<vector>
+	<cstdlib>
+	<cmath>
+	"Point.hpp"
+	"Hat.hpp"
+	"Global.hpp"
+	"Helper.hpp"
+
+1547726823 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\point.hpp
+
+1547728420 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\hat.hpp
+	<stdio.h>
+	"Point.hpp"
+	"Global.hpp"
+
+1547727204 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\global.hpp
+	<Windows.h>
+
+1547566904 d:\code\phaohoademo\phaohoaconsole\codeblocks\phaohoademo02\helper.hpp
+	<cstdlib>
+

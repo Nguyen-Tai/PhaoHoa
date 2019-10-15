@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhaoHoaDemo01", "PhaoHoaDemo01\PhaoHoaDemo01.csproj", "{BCDF7E78-88C5-4595-A1BB-F87C786F92F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhaoHoaDemo02", "PhaoHoaDemo02\PhaoHoaDemo02.csproj", "{8FE5B99E-C0DF-4B96-B705-708AEF31524E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhaoHoaDemo03", "PhaoHoaDemo03\PhaoHoaDemo03.csproj", "{28F7929A-172D-44AE-A733-169D1F86D48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDF7E78-88C5-4595-A1BB-F87C786F92F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDF7E78-88C5-4595-A1BB-F87C786F92F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDF7E78-88C5-4595-A1BB-F87C786F92F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDF7E78-88C5-4595-A1BB-F87C786F92F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE5B99E-C0DF-4B96-B705-708AEF31524E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE5B99E-C0DF-4B96-B705-708AEF31524E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE5B99E-C0DF-4B96-B705-708AEF31524E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE5B99E-C0DF-4B96-B705-708AEF31524E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F7929A-172D-44AE-A733-169D1F86D48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F7929A-172D-44AE-A733-169D1F86D48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F7929A-172D-44AE-A733-169D1F86D48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F7929A-172D-44AE-A733-169D1F86D48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1070077550 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\dibutil.cxx
+	<windows.h>
+	<assert.h>
+	"dibapi.h"
+	"dibutil.h"
+	<stdio.h>
+
+1070141918 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\dibapi.h
+
+1070072952 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\dibutil.h
+
+1452072341 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\drawing.cxx
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<ocidl.h>
+	<olectl.h>
+	<string.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	"dibapi.h"
+	<iostream>
+
+1451663230 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1151487686 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\winbgitypes.h
+	<windows.h>
+	<tchar.h>
+	<queue>
+	<string>
+	"winbgim.h"
+	<vector>
+
+1151839830 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\file.cxx
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<io.h>
+	<direct.h>
+	<stdlib.h>
+	"dibutil.h"
+	"dibapi.h"
+	"winbgitypes.h"
+
+1151492256 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\misc.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<iostream>
+
+1151492184 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\mouse.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492208 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\palette.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492226 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\text.cxx
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<sstream>
+	<string>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492238 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\winbgi.cxx
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<iostream>
+	<vector>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151487374 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\winthread.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<vector>
+	<queue>
+	<iostream>
+	<iostream>
+
+1547705603 source:d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\main.cpp
+	<cstdlib>
+	<ctime>
+	"PhaoHoaManager.hpp"
+	"graphics.h"
+
+1547568921 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\phaohoamanager.hpp
+	<vector>
+	"PhaoHoa.hpp"
+
+1547705551 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\phaohoa.hpp
+	<vector>
+	<cstdlib>
+	"Point.hpp"
+	"Hat.hpp"
+	"HatBan.hpp"
+	"Global.hpp"
+	"Helper.hpp"
+
+1547570306 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\point.hpp
+
+1547571747 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\hat.hpp
+	"Point.hpp"
+	"Global.hpp"
+	"graphics.h"
+
+1547570039 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\global.hpp
+	"Point.hpp"
+
+1452072419 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\bgi\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1547571233 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\hatban.hpp
+	"Hat.hpp"
+
+1547566904 d:\code\phaohoademo\phaohoacpp\codeblocks\phaohoademo03\helper.hpp
+	<cstdlib>
+

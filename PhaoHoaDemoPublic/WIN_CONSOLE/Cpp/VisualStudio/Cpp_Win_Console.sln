@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhaoHoaDemo02", "PhaoHoaDemo02\PhaoHoaDemo02.vcxproj", "{FC01E0B6-7E5A-4A72-A9BC-EDE5E89C7FB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhaoHoaDemo01", "PhaoHoaDemo01\PhaoHoaDemo01.vcxproj", "{10E43DF8-08A9-4BE3-B1CB-4B904D28BD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC01E0B6-7E5A-4A72-A9BC-EDE5E89C7FB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC01E0B6-7E5A-4A72-A9BC-EDE5E89C7FB1}.Debug|Win32.Build.0 = Debug|Win32
+		{FC01E0B6-7E5A-4A72-A9BC-EDE5E89C7FB1}.Release|Win32.ActiveCfg = Release|Win32
+		{FC01E0B6-7E5A-4A72-A9BC-EDE5E89C7FB1}.Release|Win32.Build.0 = Release|Win32
+		{10E43DF8-08A9-4BE3-B1CB-4B904D28BD8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10E43DF8-08A9-4BE3-B1CB-4B904D28BD8C}.Debug|Win32.Build.0 = Debug|Win32
+		{10E43DF8-08A9-4BE3-B1CB-4B904D28BD8C}.Release|Win32.ActiveCfg = Release|Win32
+		{10E43DF8-08A9-4BE3-B1CB-4B904D28BD8C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

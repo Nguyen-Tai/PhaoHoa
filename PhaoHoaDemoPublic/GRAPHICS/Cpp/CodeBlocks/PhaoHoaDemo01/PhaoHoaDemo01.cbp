@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PhaoHoaDemo01" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="BGI\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PhaoHoaDemo01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PhaoHoaDemo01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="BGI" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="ole32" />
+			<Add library="OleAut32" />
+			<Add library="Comdlg32" />
+		</Linker>
+		<Unit filename="BGI/dibapi.h">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/dibutil.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/dibutil.h">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/drawing.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/file.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/graphics.h">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/misc.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/mouse.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/palette.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/text.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/winbgi.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/winbgim.h">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/winbgitypes.h">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="BGI/winthread.cxx">
+			<Option virtualFolder="BGI/" />
+		</Unit>
+		<Unit filename="Global.hpp" />
+		<Unit filename="Hat.hpp" />
+		<Unit filename="Helper.hpp" />
+		<Unit filename="PhaoHoa.hpp" />
+		<Unit filename="PhaoHoaManager.hpp" />
+		<Unit filename="Point.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
